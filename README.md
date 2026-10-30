@@ -1,4 +1,5 @@
-# Motunrayo-Omosanya
+**OLUWATY**
+
 **PROJECT: VULNERABILITY ASSESSMENT - MITRE ATT&CK - POWERSHELL THREAT HUNTING- CLOUD SECURITY**
 
 
@@ -14,6 +15,7 @@
 
 
 **ABSTRACT****
+
  THTREAT HUNTING the searching suspicious activities in network and cloud environment using cloud security logs ' PowerShell, Microsoft Azure and MITRE ATT&CK.
 
  
@@ -58,7 +60,26 @@ The aims of study is to demonstrate PowerShell threat hunting can be used to fin
 * CSV-formatted   - simulated security logs
 
 * MITRE ATT&CK framework 
+          
+* yes my Mac book.                 
 
-* yes my Mac book.
+     VITUAL MACHINE
+----------------------------------------------------------------------
+|      Computer.                                                      |
+|.        |.                                                          |
+|.                                                                    |
+|.       VMware- for visual windows                                   |
+|.                                                                    |  
+|.         |.                                                         |
+|.                                                                    |                                 |
+|.         Powershell- investigation and collect security information |
+|                                                                     |
+|.          |                                                         |
+|                                                                     |
+|.    Threat hunting result- identifies suspicious activities in my   |
+|       in my sample log.                                             |                                       |
+|.                                                                    |
+-----------------------------------------------------------------------
+
 
 
