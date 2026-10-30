@@ -63,23 +63,7 @@ The aims of study is to demonstrate PowerShell threat hunting can be used to fin
           
 * yes my Mac book.                 
 
-     VITUAL MACHINE
-----------------------------------------------------------------------
-|      Computer.                                                      |
-|.        |.                                                          |
-|.                                                                    |
-|.       VMware- for visual windows                                   |
-|.                                                                    |  
-|.         |.                                                         |
-|.                                                                    |                                 |
-|.         Powershell- investigation and collect security information |
-|                                                                     |
-|.          |                                                         |
-|                                                                     |
-|.    Threat hunting result- identifies suspicious activities in my   |
-|       in my sample log.                                             |                                       |
-|.                                                                    |
------------------------------------------------------------------------
+  
 
 
 
